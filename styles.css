@@ -1,0 +1,97 @@
+*{
+  
+    color: black;
+    margin: 0;
+    padding: 0%;
+    
+   
+}
+.navbar{
+    margin-bottom: 2%;
+    
+}
+
+.navbar-nav {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+   
+    
+    
+   
+}
+
+
+.nav-link{
+   margin-left: 1rem;
+   margin-right: 1rem;
+   color: black;
+  
+   
+}
+.navbar-brand{
+    margin-left: 1rem;
+    color: black;
+    font-size: 2rem;
+}
+.hero{
+    border-radius: 3%;
+    background-color: #EEEEEE;
+   
+}
+
+.row{
+
+    height: 100px;
+    background-color: white;
+    
+}
+.col{
+    height: 100px;
+    background-color: white;
+    
+}
+.white{
+    background-color: black;
+}
+.tech{
+    background-color: white;
+    font-family: "New Amsterdam", sans-serif;
+  font-weight: 200;
+  font-style: bold;
+  font-size: 3rem;
+}
+.footer{
+    margin-top: 15%;
+}
+.services{
+    margin-top: 3%;
+    font-family: "Open Sans", sans-serif;
+    font-size: 15px;
+    
+}
+.titles{
+  font-family: "New Amsterdam", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 3rem;
+}
+.heros
+{
+    font-family: "New Amsterdam", sans-serif;
+  font-weight: 200;
+  font-style: bold;
+  font-size: 4rem;
+}
+.servc{
+    font-family: "New Amsterdam", sans-serif;
+    font-weight: 200;
+    font-style: bold;
+    font-size: 3rem;
+}
+.Project{
+    font-family: "New Amsterdam", sans-serif;
+    font-weight: 200;
+    font-style: bold;
+    font-size: 3rem;
+}
